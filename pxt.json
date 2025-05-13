@@ -1,0 +1,48 @@
+{
+    "name": "TrickOrTrout.3",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFF1E8",
+        "#FCCF58",
+        "#4E67B1",
+        "#D9C5FF",
+        "#C7EBFF",
+        "#368759",
+        "#094918",
+        "#403B68",
+        "#6D6C84",
+        "#C27951",
+        "#83769C",
+        "#B78034",
+        "#A1704F",
+        "#67442D",
+        "#1D2B53"
+    ]
+}
